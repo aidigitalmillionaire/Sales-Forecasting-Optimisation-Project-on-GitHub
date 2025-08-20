@@ -1,0 +1,10 @@
+sales-forecasting-optimisation/
+│── README.md
+│── sales_forecasting_optimisation.ipynb
+│── requirements.txt
+│── docs/
+│   └── DESCRIPTION.md
+│── data/
+│   └── dataset_link.txt   (points to Kaggle/other source)
+│── images/
+│   └── results.png
