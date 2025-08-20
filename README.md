@@ -52,6 +52,7 @@ Run all cells to train models and view results.
 
 ARIMA worked well for short-term trends.
 
+
 Prophet handled seasonality effectively.
 
 LSTM captured complex sequential dependencies.
