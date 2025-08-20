@@ -1,0 +1,25 @@
+# 📜 License
+
+
+---
+
+## **6. Create Description File**
+
+Inside `docs/DESCRIPTION.md`:
+
+```markdown
+# Project Description: Sales Forecasting Optimisation
+
+This project demonstrates how to apply **time series forecasting** methods to optimise sales predictions. Using real-world datasets, we explore both **traditional statistical models** (ARIMA, Prophet) and **deep learning** methods (LSTM) for demand forecasting.  
+
+The notebook covers:  
+- Data cleaning and exploratory analysis  
+- Model training and hyperparameter tuning  
+- Visualising forecasts  
+- Evaluating models with RMSE, MAE, and MAPE  
+
+**Goal**: Provide a reproducible workflow to help businesses improve demand planning, inventory management, and decision-making.  
+
+Dataset Links:  
+- [Kaggle – Stores Sales Forecasting](https://www.kaggle.com/datasets/cavinlobo/stores-sales-forecasting-dataset)  
+
